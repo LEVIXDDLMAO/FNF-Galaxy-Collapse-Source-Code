@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"galaxy-collapse",
+			"gc",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "galaxy",
+	"weekCharacters": [
+		"gc",
+		"bf",
+		"gf"
+	],
+	"storyName": "galaxy",
+	"weekName": "galaxy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
